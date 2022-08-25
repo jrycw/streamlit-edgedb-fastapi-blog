@@ -1,5 +1,5 @@
 # streamlit-edgedb-fastapi-blog
-A simple blog app built by [Streamlit](https://streamlit.io/) + [EdgeDB](https://www.edgedb.com/) + [FastAPI](https://fastapi.tiangolo.com/)
+A simple blog app built by [Streamlit](https://streamlit.io/) + [EdgeDB](https://www.edgedb.com/) + [FastAPI](https://fastapi.tiangolo.com/).
 
 ```
 pip install -r requirements.txt
