@@ -15,7 +15,7 @@ uvicorn app.main:api
 # Streamlit
 streamlit run stapp/01_blog.py
 
-$ test
+# pytest
 edgedb instance create test01
 edgedb -I test01 migrate
 python -m pytest tests/
