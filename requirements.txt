@@ -1,0 +1,14 @@
+autopep8
+edgedb
+fastapi
+httpx
+httpx[cli]
+uvicorn
+pydantic[email]
+pytest
+pytest-sugar
+asgi-lifespan
+pytest-asyncio
+faker
+streamlit==1.11
+titlecase
