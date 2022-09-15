@@ -65,7 +65,7 @@ async def main():
                                 st.warning(f'User updated failed. This email "{updated_email}"\
                                      might be occupied.')
         else:
-            st.write('No user exsting')
+            st.write('No user exists')
 
     with st.container():
         st.header('Delete User')
@@ -90,7 +90,7 @@ async def main():
                                 'User delete failed. This should not be happened,\
                                      please contact support team')
         else:
-            st.write('No user exsting')
+            st.write('No user exists')
 
     with st.container():
         st.header('View ALL Users')
